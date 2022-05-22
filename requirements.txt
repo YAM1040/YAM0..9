@@ -1,0 +1,7 @@
+Torch
+TensorFlow
+Flax
+python 3.8
+pandas
+bs4 
+HeBert
